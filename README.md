@@ -64,6 +64,4 @@ gcc main.c player.c -o rummikub
 ./rummikub
 
 
-git add README.md
-git commit -m "Add README documentation"
-git push
+
